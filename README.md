@@ -11,7 +11,7 @@ Adapted version of Paul Mooney's 'Chest X-Ray Images (Pneumonia)' dataset, where
 - **Testing observations:** 624 (234 normal cases, 390 lung opacity cases)
 
 
-Abstract
+# Abstract
 The diagnosis of the disease need lot of analysis and the doctor has to check all the insights 
 of the x-ray image. The x-ray image will be taken by the scanner with ultra sound. The 
 generated x-ray images are different that are compared with the normal images. In order to 
