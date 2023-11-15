@@ -1,5 +1,5 @@
 # Pneumonia-Detection
-# Pneumonia X-Ray Images
+
 
 ![Pneumonia X-Ray Images](https://storage.googleapis.com/kaggle-datasets-images/661308/1166777/3f1da6fe1f06a4b75feab9d7a8aa8339/dataset-cover.png?t=2020-06-19-23-15-03)
 
