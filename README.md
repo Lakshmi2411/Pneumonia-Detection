@@ -1,4 +1,15 @@
 # Pneumonia-Detection
+# Pneumonia X-Ray Images
+
+![Pneumonia X-Ray Images](https://storage.googleapis.com/kaggle-datasets-images/661308/1166777/3f1da6fe1f06a4b75feab9d7a8aa8339/dataset-cover.png?t=2020-06-19-23-15-03)
+
+Adapted version of Paul Mooney's 'Chest X-Ray Images (Pneumonia)' dataset, where the amount of observations for training and validation purposes was redistributed to allow for a more balanced machine learning exercise.
+
+- **Total number of observations (images):** 5,856
+- **Training observations:** 4,192 (1,082 normal cases, 3,110 lung opacity cases)
+- **Validation observations:** 1,040 (267 normal cases, 773 lung opacity cases)
+- **Testing observations:** 624 (234 normal cases, 390 lung opacity cases)
+
 
 Abstract
 The diagnosis of the disease need lot of analysis and the doctor has to check all the insights 
@@ -24,3 +35,12 @@ function is used to test the trained model with the different set of images whet
 classify the disease correctly or not. So our model provides the accuracy to classify the xray images as normal or the lung opacity disease. The automatic classification of the 
 medical x-rays will be done effectively then there is a chance of the low death rates because 
 the patients will get the treatment in time
+
+# Models:
+-VGG16
+-VGG19
+-DENSENET169
+-INCEPTIONV3
+-XCEPTION
+
+
